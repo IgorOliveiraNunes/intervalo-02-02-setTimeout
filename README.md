@@ -3,9 +3,10 @@
 <a href="#sobre">Sobre</a> o
 <a href="#sobre">Tecnologias</a> o
 <br><br>
-o Homepage:  <a href= >page</a>
+o Homepage:  <a href=https://igoroliveiranunes.github.io/intervalo-02-02-setTimeout/>Intervalos(02-02)setTimeout</a>
 
-!Image
+![Opera Instantâneo_2023-02-20_060502_127 0 0 1](https://user-images.githubusercontent.com/93622964/220062600-006a103d-db02-41d9-9148-2f937700fdc3.png)
+
 <h3>O Projeto simples de lista com javascript</h3>
 <h3>O Exercício feito com proposta do curso 
 <a href="https://b7web.com.br">b7web</a>.</h3>
